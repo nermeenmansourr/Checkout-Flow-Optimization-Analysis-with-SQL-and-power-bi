@@ -1,3 +1,5 @@
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 # 365 Checkout Flow & Payment Optimization Analysis
 
 > **Project Period:** July 1, 2022 – January 31, 2023  
