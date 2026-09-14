@@ -24,7 +24,7 @@ This project evaluates the purchase checkout funnel for the 365 platform to iden
 
 ---
 
-##  3-Page Storyboard Architecture
+## Page Storyboard Architecture
 
 * **Page 1: Funnel Overview & Trends** — Tracks top-of-funnel volume, monthly success rates, and high-level conversion health.
 * **Page 2: Cart Abandonment Deep Dive** — Examines user drop-offs between cart creation and payment, quantifying revenue loss over time.
@@ -32,7 +32,7 @@ This project evaluates the purchase checkout funnel for the 365 platform to iden
 
 ---
 
-## 💡 Strategic Recommendations
+##  Strategic Recommendations
 
 | Key Friction Point | Root Cause | Actionable Strategy |
 | :--- | :--- | :--- |
