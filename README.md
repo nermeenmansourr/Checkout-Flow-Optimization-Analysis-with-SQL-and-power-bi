@@ -5,12 +5,12 @@
 
 ---
 
-## 📌 Business Overview
+##  Business Overview
 This project evaluates the purchase checkout funnel for the 365 platform to identify user drop-off points, minimize cart abandonment, and improve overall payment completion rates. Using event-level data and a 3-page story dashboard, user interactions were tracked from initial item addition through final transaction processing.
 
 ---
 
-## 🎯 Key Segments & Core Metrics
+## Key Segments & Core Metrics
 
 ### **User Classifications**
 * **Successful Checkout:** User completes a subscription payment with zero issues.
@@ -24,7 +24,7 @@ This project evaluates the purchase checkout funnel for the 365 platform to iden
 
 ---
 
-## 📊 3-Page Storyboard Architecture
+##  3-Page Storyboard Architecture
 
 * **Page 1: Funnel Overview & Trends** — Tracks top-of-funnel volume, monthly success rates, and high-level conversion health.
 * **Page 2: Cart Abandonment Deep Dive** — Examines user drop-offs between cart creation and payment, quantifying revenue loss over time.
